@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "474664930372",
+    "project_id": "east-telecom-task-a1e04",
+    "storage_bucket": "east-telecom-task-a1e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474664930372:android:d9051fae1106c5f9690011",
+        "android_client_info": {
+          "package_name": "com.example.east_telecom_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474664930372-21j1thjidrf55e3fmuuqoeao47sbf43d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2zZ1ad8M7TJTynjfO6EePS-foIfSurBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474664930372-21j1thjidrf55e3fmuuqoeao47sbf43d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474664930372-65bdecvu0q4adikhlgh572it2qu81sjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eastTelecomProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
